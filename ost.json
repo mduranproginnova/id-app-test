@@ -1,0 +1,2019 @@
+  [
+  {
+    "publicId": "32541045-c72a-4ee4-8c79-ef64852ec5fa",
+    "creationDate": "2019-11-13T16:53:28.755+0000",
+    "newIndicator": true,
+    "branchTitle": null,
+    "title": "Centro Nacional de Innovaciones Biotecnológicas (CENIBiot)",
+    "canEdit": false,
+    "coordinates": {
+      "firstLevel": "San José",
+      "secondLevel": "San José",
+      "latitude": 9.950717,
+      "longitude": -84.124479
+    },
+    "sections": [
+      {
+        "fields": [
+          {
+            "@type": "StringField",
+            "name": "Contacto",
+            "type": "java.lang.String",
+            "value": "Sergio Madrigal Carballo"
+          },
+          {
+            "@type": "StringField",
+            "name": "Correo",
+            "type": "java.lang.String",
+            "value": "smadrigal@cenat.ac.cr"
+          },
+          {
+            "@type": "StringField",
+            "name": "Unidad académica",
+            "type": "java.lang.String",
+            "value": "Centro Nacional de Alta Tecnología"
+          },
+          {
+            "@type": "StringField",
+            "name": "Institución",
+            "type": "java.lang.String",
+            "value": "Centro Nacional de Alta Tecnología"
+          },
+          {
+            "@type": "StringField",
+            "name": "Teléfono",
+            "type": "java.lang.String",
+            "value": "2519-5871"
+          },
+          {
+            "@type": "StringField",
+            "name": "Horario",
+            "type": "java.lang.String",
+            "value": "L-V: 7:30 am - 4:40 pm"
+          },
+          {
+            "@type": "StringField",
+            "name": "Sitio Web",
+            "type": "java.lang.String",
+            "value": "http://www.cenibiot.ac.cr"
+          },
+          {
+            "@type": "StringField",
+            "name": "Áreas de experiencia en la oferta de servicios",
+            "type": "java.lang.String",
+            "value": "Experiencia en el escalamiento biotecnológico, con el propósito de potenciar el desarrollo de la biotecnología en la región. "
+          },
+          {
+            "@type": "StringField",
+            "name": "Sectores de aplicación",
+            "type": "java.lang.String",
+            "value": "Biotecnología"
+          }
+        ],
+        "tables": [],
+        "sectionId": "info",
+        "sectionTitle": "Información general"
+      },
+      {
+        "fields": [
+          {
+            "@type": "StringField",
+            "name": "Dirección",
+            "type": "java.lang.String",
+            "value": "Edificio Franklin Chang Diaz, Pavas, San José"
+          },
+          {
+            "@type": "StringField",
+            "name": "latitud",
+            "type": "java.lang.String",
+            "value": "9.950717"
+          },
+          {
+            "@type": "StringField",
+            "name": "longitud",
+            "type": "java.lang.String",
+            "value": "-84.124479"
+          },
+          {
+            "@type": "StringField",
+            "name": "frameId",
+            "type": "java.lang.String",
+            "value": "0x8fa0fb687f6d81db%3A0x46fd58168ef4c5bb"
+          },
+          {
+            "@type": "StringField",
+            "name": "frameName",
+            "type": "java.lang.String",
+            "value": "Centro+Nacional+de+Alta+Tecnolog%C3%ADa"
+          }
+        ],
+        "tables": [],
+        "sectionId": "address",
+        "sectionTitle": "Dirección"
+      },
+      {
+        "fields": [],
+        "tables": [
+          {
+            "index": 0,
+            "publicId": "42d1b64a-0a21-45b4-b448-69bd9e1339bc",
+            "name": "Servicios de transferencia tecnológica prestados",
+            "rows": [
+              {
+                "index": 0,
+                "publicId": null,
+                "fields": [
+                  {
+                    "@type": "StringField",
+                    "name": "Nombre del servicio",
+                    "type": "java.lang.String",
+                    "value": "Análisis genético"
+                  },
+                  {
+                    "@type": "StringField",
+                    "name": "Descripción del servicio",
+                    "type": "java.lang.String",
+                    "value": "Secuenciación genética"
+                  },
+                  {
+                    "@type": "StringField",
+                    "name": "Nombre de la normativa o certificaciones de calidad que cubren el servicio",
+                    "type": "java.lang.String",
+                    "value": "Servicio certificado por el Servicio Fitosanitario del Estado. Laboratorio Oficializado por el Servicio Fitosanitario del Estado para el análisis de organismos modificados genéticamente (GMO)."
+                  },
+                  {
+                    "@type": "StringField",
+                    "name": "Nombre del responsable",
+                    "type": "java.lang.String",
+                    "value": "<a href='mailto:cenibiot@cenat.ac.cr'>Max Chavarría</a>"
+                  }
+                ],
+                "size": 4
+              },
+              {
+                "index": 1,
+                "publicId": null,
+                "fields": [
+                  {
+                    "@type": "StringField",
+                    "name": "Nombre del servicio",
+                    "type": "java.lang.String",
+                    "value": "Diferenciación genética"
+                  },
+                  {
+                    "@type": "StringField",
+                    "name": "Descripción del servicio",
+                    "type": "java.lang.String",
+                    "value": "Microsatelites, AFLPs"
+                  },
+                  {
+                    "@type": "StringField",
+                    "name": "Nombre de la normativa o certificaciones de calidad que cubren el servicio",
+                    "type": "java.lang.String",
+                    "value": "Servicio certificado por el Servicio Fitosanitario del Estado. Laboratorio Oficializado por el Servicio Fitosanitario del Estado para el análisis de organismos modificados genéticamente (GMO)."
+                  },
+                  {
+                    "@type": "StringField",
+                    "name": "Nombre del responsable",
+                    "type": "java.lang.String",
+                    "value": "<a href='mailto:cenibiot@cenat.ac.cr'>Emanuel Araya</a>"
+                  }
+                ],
+                "size": 4
+              },
+              {
+                "index": 2,
+                "publicId": null,
+                "fields": [
+                  {
+                    "@type": "StringField",
+                    "name": "Nombre del servicio",
+                    "type": "java.lang.String",
+                    "value": "Análisis de biofármacos"
+                  },
+                  {
+                    "@type": "StringField",
+                    "name": "Descripción del servicio",
+                    "type": "java.lang.String",
+                    "value": "HPLC, HPLC-MS/MS, Microplate reader"
+                  },
+                  {
+                    "@type": "StringField",
+                    "name": "Nombre de la normativa o certificaciones de calidad que cubren el servicio",
+                    "type": "java.lang.String",
+                    "value": "Servicio en proceso de oficialización ante la CCSS y el Ministerio de Salud"
+                  },
+                  {
+                    "@type": "StringField",
+                    "name": "Nombre del responsable",
+                    "type": "java.lang.String",
+                    "value": "<a href='mailto:cenibiot@cenat.ac.cr'>Rodrigo Muñoz</a>"
+                  }
+                ],
+                "size": 4
+              },
+              {
+                "index": 3,
+                "publicId": null,
+                "fields": [
+                  {
+                    "@type": "StringField",
+                    "name": "Nombre del servicio",
+                    "type": "java.lang.String",
+                    "value": "Análisis de bioquímico"
+                  },
+                  {
+                    "@type": "StringField",
+                    "name": "Descripción del servicio",
+                    "type": "java.lang.String",
+                    "value": "Analizador bioquímico YSI"
+                  },
+                  {
+                    "@type": "StringField",
+                    "name": "Nombre de la normativa o certificaciones de calidad que cubren el servicio",
+                    "type": "java.lang.String",
+                    "value": null
+                  },
+                  {
+                    "@type": "StringField",
+                    "name": "Nombre del responsable",
+                    "type": "java.lang.String",
+                    "value": "<a href='mailto:cenibiot@cenat.ac.cr'>Jorge Araya</a>"
+                  }
+                ],
+                "size": 4
+              },
+              {
+                "index": 4,
+                "publicId": null,
+                "fields": [
+                  {
+                    "@type": "StringField",
+                    "name": "Nombre del servicio",
+                    "type": "java.lang.String",
+                    "value": "Análisis de químicos"
+                  },
+                  {
+                    "@type": "StringField",
+                    "name": "Descripción del servicio",
+                    "type": "java.lang.String",
+                    "value": "HPLC, HPLC-MS/MS, Microplate reader, RMN"
+                  },
+                  {
+                    "@type": "StringField",
+                    "name": "Nombre de la normativa o certificaciones de calidad que cubren el servicio",
+                    "type": "java.lang.String",
+                    "value": null
+                  },
+                  {
+                    "@type": "StringField",
+                    "name": "Nombre del responsable",
+                    "type": "java.lang.String",
+                    "value": "<a href='mailto:cenibiot@cenat.ac.cr'>Gina Porras</a>"
+                  }
+                ],
+                "size": 4
+              },
+              {
+                "index": 5,
+                "publicId": null,
+                "fields": [
+                  {
+                    "@type": "StringField",
+                    "name": "Nombre del servicio",
+                    "type": "java.lang.String",
+                    "value": "Análisis microbiológicos"
+                  },
+                  {
+                    "@type": "StringField",
+                    "name": "Descripción del servicio",
+                    "type": "java.lang.String",
+                    "value": "Susceptibilidad antimicrobiana, placas de cultivo"
+                  },
+                  {
+                    "@type": "StringField",
+                    "name": "Nombre de la normativa o certificaciones de calidad que cubren el servicio",
+                    "type": "java.lang.String",
+                    "value": null
+                  },
+                  {
+                    "@type": "StringField",
+                    "name": "Nombre del responsable",
+                    "type": "java.lang.String",
+                    "value": "<a href='mailto:cenibiot@cenat.ac.cr'>Luis Porras</a>"
+                  }
+                ],
+                "size": 4
+              },
+              {
+                "index": 6,
+                "publicId": null,
+                "fields": [
+                  {
+                    "@type": "StringField",
+                    "name": "Nombre del servicio",
+                    "type": "java.lang.String",
+                    "value": "Bioprocesos industriales"
+                  },
+                  {
+                    "@type": "StringField",
+                    "name": "Descripción del servicio",
+                    "type": "java.lang.String",
+                    "value": "Escalamiento biotecnológico en biorreactor (3L a 100L)"
+                  },
+                  {
+                    "@type": "StringField",
+                    "name": "Nombre de la normativa o certificaciones de calidad que cubren el servicio",
+                    "type": "java.lang.String",
+                    "value": null
+                  },
+                  {
+                    "@type": "StringField",
+                    "name": "Nombre del responsable",
+                    "type": "java.lang.String",
+                    "value": "<a href='mailto:cenibiot@cenat.ac.cr'>Iray Mata</a>"
+                  }
+                ],
+                "size": 4
+              },
+              {
+                "index": 7,
+                "publicId": null,
+                "fields": [
+                  {
+                    "@type": "StringField",
+                    "name": "Nombre del servicio",
+                    "type": "java.lang.String",
+                    "value": "Biotecnología industrial"
+                  },
+                  {
+                    "@type": "StringField",
+                    "name": "Descripción del servicio",
+                    "type": "java.lang.String",
+                    "value": "Producción de biocompuestos por fermentación líquida"
+                  },
+                  {
+                    "@type": "StringField",
+                    "name": "Nombre de la normativa o certificaciones de calidad que cubren el servicio",
+                    "type": "java.lang.String",
+                    "value": null
+                  },
+                  {
+                    "@type": "StringField",
+                    "name": "Nombre del responsable",
+                    "type": "java.lang.String",
+                    "value": "<a href='mailto:cenibiot@cenat.ac.cr'>Jessica Montero</a>"
+                  }
+                ],
+                "size": 4
+              },
+              {
+                "index": 8,
+                "publicId": null,
+                "fields": [
+                  {
+                    "@type": "StringField",
+                    "name": "Nombre del servicio",
+                    "type": "java.lang.String",
+                    "value": "Purificación down-stream"
+                  },
+                  {
+                    "@type": "StringField",
+                    "name": "Descripción del servicio",
+                    "type": "java.lang.String",
+                    "value": "Centrifugación, filtro prensa, clarificación"
+                  },
+                  {
+                    "@type": "StringField",
+                    "name": "Nombre de la normativa o certificaciones de calidad que cubren el servicio",
+                    "type": "java.lang.String",
+                    "value": null
+                  },
+                  {
+                    "@type": "StringField",
+                    "name": "Nombre del responsable",
+                    "type": "java.lang.String",
+                    "value": "<a href='mailto:cenibiot@cenat.ac.cr'>Jessica Montero</a>"
+                  }
+                ],
+                "size": 4
+              },
+              {
+                "index": 9,
+                "publicId": null,
+                "fields": [
+                  {
+                    "@type": "StringField",
+                    "name": "Nombre del servicio",
+                    "type": "java.lang.String",
+                    "value": "Multiplicación masiva de plantas"
+                  },
+                  {
+                    "@type": "StringField",
+                    "name": "Descripción del servicio",
+                    "type": "java.lang.String",
+                    "value": "TIS, Smart-bit, inmersión temporal"
+                  },
+                  {
+                    "@type": "StringField",
+                    "name": "Nombre de la normativa o certificaciones de calidad que cubren el servicio",
+                    "type": "java.lang.String",
+                    "value": null
+                  },
+                  {
+                    "@type": "StringField",
+                    "name": "Nombre del responsable",
+                    "type": "java.lang.String",
+                    "value": "<a href='mailto:cenibiot@cenat.ac.cr'>Laura Sánchez</a>"
+                  }
+                ],
+                "size": 4
+              },
+              {
+                "index": 10,
+                "publicId": null,
+                "fields": [
+                  {
+                    "@type": "StringField",
+                    "name": "Nombre del servicio",
+                    "type": "java.lang.String",
+                    "value": "Producción de metabolitos en biorreactor"
+                  },
+                  {
+                    "@type": "StringField",
+                    "name": "Descripción del servicio",
+                    "type": "java.lang.String",
+                    "value": "Biorreactor de tanque agitado (1L a 5L)"
+                  },
+                  {
+                    "@type": "StringField",
+                    "name": "Nombre de la normativa o certificaciones de calidad que cubren el servicio",
+                    "type": "java.lang.String",
+                    "value": null
+                  },
+                  {
+                    "@type": "StringField",
+                    "name": "Nombre del responsable",
+                    "type": "java.lang.String",
+                    "value": "<a href='mailto:cenibiot@cenat.ac.cr'>Mónica Rojas</a>"
+                  }
+                ],
+                "size": 4
+              },
+              {
+                "index": 11,
+                "publicId": null,
+                "fields": [
+                  {
+                    "@type": "StringField",
+                    "name": "Nombre del servicio",
+                    "type": "java.lang.String",
+                    "value": "Bioprospección de metabolitos"
+                  },
+                  {
+                    "@type": "StringField",
+                    "name": "Descripción del servicio",
+                    "type": "java.lang.String",
+                    "value": "Cromatografía líquida, liofilización, evaporación rotatoria industrial"
+                  },
+                  {
+                    "@type": "StringField",
+                    "name": "Nombre de la normativa o certificaciones de calidad que cubren el servicio",
+                    "type": "java.lang.String",
+                    "value": null
+                  },
+                  {
+                    "@type": "StringField",
+                    "name": "Nombre del responsable",
+                    "type": "java.lang.String",
+                    "value": "<a href='mailto:cenibiot@cenat.ac.cr'>Gina Porras</a>"
+                  }
+                ],
+                "size": 4
+              }
+            ],
+            "size": 12
+          }
+        ],
+        "sectionId": "services",
+        "sectionTitle": "Servicios de transferencia tecnológica prestados"
+      },
+      {
+        "fields": [
+          {
+            "@type": "StringField",
+            "name": "Vínculos",
+            "type": "java.lang.String",
+            "value": "<strong>Socios públicos</strong><br><ul><br><li>Universidad de Costa Rica</li><br><li>Universidad Nacional</li><br><li>Instituto Tecnológico de Costa Rica</li><br><li>Universidad Estatal a Distancia</li><br><li>Universidad Técnica Nacional</li><br><li>Servicio Fitosanitario del Estado</li><br><li>Instituto Nacional de Tecnología Agraria (INTA)</li><br><li>Instituto del Café de Costa Rica (ICAFE)</li><br></ul><br><strong>Socios privados</strong><br><ul><br><li>Novalteak S.A.</li><br><li>Grupo Numar</li><br><li>Laboratorios Stein S.A.</li><br><li>Gutis Farmaceutica</li><br><li>Carao Ventures</li><br><li>Speratum</li><br><li>UNU-Biolac</li><br></ul>"
+          },
+          {
+            "@type": "StringField",
+            "name": "Información adicional",
+            "type": "java.lang.String",
+            "value": null
+          }
+        ],
+        "tables": [],
+        "sectionId": "additional_info",
+        "sectionTitle": "Información adicional"
+      }
+    ],
+    "tags": [
+      "Centro Nacional de Alta Tecnología",
+      "Biotecnología"
+    ],
+    "tags2": [
+      "filtro",
+      "secuenciacion",
+      "analisis",
+      "reader",
+      "microsatelites",
+      "ysi",
+      "rotatoria",
+      "rmn",
+      "smartbit",
+      "susceptibilidad",
+      "masiva",
+      "liquida",
+      "diferenciacion",
+      "escalamiento",
+      "bioprocesos",
+      "temporal",
+      "produccion",
+      "tis",
+      "cromatografia",
+      "biocompuestos",
+      "aflps",
+      "prensa",
+      "biotecnologico",
+      "metabolitos",
+      "quimicos",
+      "purificacion",
+      "liofilizacion",
+      "fermentacion",
+      "genetica",
+      "biofarmacos",
+      "agitado",
+      "hplc",
+      "analizador",
+      "plantas",
+      "clarificacion",
+      "bioprospeccion",
+      "bioquimico",
+      "genetico",
+      "antimicrobiana",
+      "centrifugacion",
+      "multiplicacion",
+      "inmersion",
+      "downstream",
+      "microplate",
+      "evaporacion",
+      "l",
+      "placas",
+      "cultivo",
+      "industrial",
+      "microbiologicos",
+      "biotecnologia",
+      "industriales",
+      "biorreactor",
+      "tanque"
+    ],
+    "domain": "Oferta Tecnologica Publica",
+    "imageFiles": [],
+    "externalId": "6ecd995c-4abb-44ef-8331-fc0229807e2a",
+    "template": null,
+    "branches": [],
+    "branch": false,
+    "hasUserEmail": false,
+    "deprecated": false
+  },
+  {
+    "publicId": "7b1e3d5d-ab1c-4e86-b215-21770e99c1d4",
+    "creationDate": "2019-11-13T16:53:30.168+0000",
+    "newIndicator": true,
+    "branchTitle": null,
+    "title": "Centro de Electroquímica y Energía Química (CELEQ)",
+    "canEdit": false,
+    "coordinates": {
+      "firstLevel": "San José",
+      "secondLevel": "Montes de Oca",
+      "latitude": 9.937095,
+      "longitude": -84.050929
+    },
+    "sections": [
+      {
+        "fields": [
+          {
+            "@type": "StringField",
+            "name": "Contacto",
+            "type": "java.lang.String",
+            "value": "Secretaría de vinculación"
+          },
+          {
+            "@type": "StringField",
+            "name": "Correo",
+            "type": "java.lang.String",
+            "value": "secve1.celeq@ucr.ac.cr"
+          },
+          {
+            "@type": "StringField",
+            "name": "Unidad académica",
+            "type": "java.lang.String",
+            "value": "Universidad de Costa Rica"
+          },
+          {
+            "@type": "StringField",
+            "name": "Institución",
+            "type": "java.lang.String",
+            "value": "Universidad de Costa Rica"
+          },
+          {
+            "@type": "StringField",
+            "name": "Teléfono",
+            "type": "java.lang.String",
+            "value": "2511-2487"
+          },
+          {
+            "@type": "StringField",
+            "name": "Horario",
+            "type": "java.lang.String",
+            "value": "L-V: 8:00 am - 12:00 md y de 1:00 pm - 4:30 pm"
+          },
+          {
+            "@type": "StringField",
+            "name": "Sitio Web",
+            "type": "java.lang.String",
+            "value": "https://vinv.ucr.ac.cr/es/unidades/centro-de-investigacion-en-electroquimica-y-energia-quimica-celeq"
+          },
+          {
+            "@type": "StringField",
+            "name": "Áreas de experiencia en la oferta de servicios",
+            "type": "java.lang.String",
+            "value": "Experiencia en las áreas de la electroquímica,  energía química, hidrocarburos y fuentes alternativas de energía (solar, biomasa, entre otras)."
+          },
+          {
+            "@type": "StringField",
+            "name": "Sectores de aplicación",
+            "type": "java.lang.String",
+            "value": "Energías renovables"
+          }
+        ],
+        "tables": [],
+        "sectionId": "info",
+        "sectionTitle": "Información general"
+      },
+      {
+        "fields": [
+          {
+            "@type": "StringField",
+            "name": "Dirección",
+            "type": "java.lang.String",
+            "value": "Ciudad de la Investigación, Universidad de Costa Rica"
+          },
+          {
+            "@type": "StringField",
+            "name": "latitud",
+            "type": "java.lang.String",
+            "value": "9.937095"
+          },
+          {
+            "@type": "StringField",
+            "name": "longitud",
+            "type": "java.lang.String",
+            "value": "-84.050929"
+          },
+          {
+            "@type": "StringField",
+            "name": "frameId",
+            "type": "java.lang.String",
+            "value": "0x8fa0e3347376dfb7%3A0xd03b52c3fac2425f"
+          },
+          {
+            "@type": "StringField",
+            "name": "frameName",
+            "type": "java.lang.String",
+            "value": "Universidad+de+Costa+Rica"
+          }
+        ],
+        "tables": [],
+        "sectionId": "address",
+        "sectionTitle": "Dirección"
+      },
+      {
+        "fields": [],
+        "tables": [
+          {
+            "index": 0,
+            "publicId": "d0ba3f69-5b90-40bf-8627-ca834b17222e",
+            "name": "Servicios de transferencia tecnológica prestados",
+            "rows": [
+              {
+                "index": 0,
+                "publicId": null,
+                "fields": [
+                  {
+                    "@type": "StringField",
+                    "name": "Nombre del servicio",
+                    "type": "java.lang.String",
+                    "value": "Análisis de calidad de combustibles"
+                  },
+                  {
+                    "@type": "StringField",
+                    "name": "Descripción del servicio",
+                    "type": "java.lang.String",
+                    "value": "Se realizan análisis de calidad para verificar cumplimiento con especificaciones o normativa de diferentes tipos de combustibles (diésel, gasolina, kerosene, búnker, GLP, etc.)"
+                  },
+                  {
+                    "@type": "StringField",
+                    "name": "Nombre de la normativa o certificaciones de calidad que cubren el servicio",
+                    "type": "java.lang.String",
+                    "value": "Acreditación ante el Ente Costarricense de Acreditación, según las norma INTE-ISO/IEC 17020-2012 e INTE-ISO/IEC 17025-2005"
+                  },
+                  {
+                    "@type": "StringField",
+                    "name": "Nombre del responsable",
+                    "type": "java.lang.String",
+                    "value": "<a href='mailto:carlos.leon@ucr.ac.cr,jbustos@cita.ucr.ac.cr'>Dr. Carlos León Rojas<br>B.Q. Jairol Bustos C.</a>"
+                  }
+                ],
+                "size": 4
+              },
+              {
+                "index": 1,
+                "publicId": null,
+                "fields": [
+                  {
+                    "@type": "StringField",
+                    "name": "Nombre del servicio",
+                    "type": "java.lang.String",
+                    "value": "Análisis de calidad de aceites"
+                  },
+                  {
+                    "@type": "StringField",
+                    "name": "Descripción del servicio",
+                    "type": "java.lang.String",
+                    "value": "Se realizan análisis de calidad para verificar cumplimiento con especificaciones o normativa de diferentes tipos de aceites (comestible, lubricación, hidráulico, mineral, grasas, etc.)"
+                  },
+                  {
+                    "@type": "StringField",
+                    "name": "Nombre de la normativa o certificaciones de calidad que cubren el servicio",
+                    "type": "java.lang.String",
+                    "value": "Acreditación ante el Ente Costarricense de Acreditación, según las norma INTE-ISO/IEC 17020-2012 e INTE-ISO/IEC 17025-2005"
+                  },
+                  {
+                    "@type": "StringField",
+                    "name": "Nombre del responsable",
+                    "type": "java.lang.String",
+                    "value": "<a href='mailto:carlos.leon@ucr.ac.cr,jbustos@cita.ucr.ac.cr'>Dr. Carlos León Rojas<br>B.Q. Jairol Bustos C.</a>"
+                  }
+                ],
+                "size": 4
+              },
+              {
+                "index": 2,
+                "publicId": null,
+                "fields": [
+                  {
+                    "@type": "StringField",
+                    "name": "Nombre del servicio",
+                    "type": "java.lang.String",
+                    "value": "Análisis de contaminación ambiental con hidrocarburos"
+                  },
+                  {
+                    "@type": "StringField",
+                    "name": "Descripción del servicio",
+                    "type": "java.lang.String",
+                    "value": "Se realizan análisis para determinar el nivel de contaminación con diferentes hidrocarburos en agua y suelo (diésel, gasolina, aceites, grasas, BTEX, etc.)"
+                  },
+                  {
+                    "@type": "StringField",
+                    "name": "Nombre de la normativa o certificaciones de calidad que cubren el servicio",
+                    "type": "java.lang.String",
+                    "value": "Acreditación ante el Ente Costarricense de Acreditación, según las norma INTE-ISO/IEC 17020-2012 e INTE-ISO/IEC 17025-2005"
+                  },
+                  {
+                    "@type": "StringField",
+                    "name": "Nombre del responsable",
+                    "type": "java.lang.String",
+                    "value": "<a href='mailto:carlos.leon@ucr.ac.cr,jbustos@cita.ucr.ac.cr'>Dr. Carlos León Rojas<br>B.Q. Jairol Bustos C.</a>"
+                  }
+                ],
+                "size": 4
+              },
+              {
+                "index": 3,
+                "publicId": null,
+                "fields": [
+                  {
+                    "@type": "StringField",
+                    "name": "Nombre del servicio",
+                    "type": "java.lang.String",
+                    "value": "Toma de muestra para análisis de hidrocarburos"
+                  },
+                  {
+                    "@type": "StringField",
+                    "name": "Descripción del servicio",
+                    "type": "java.lang.String",
+                    "value": "Se realiza la toma de muestras para los análisis realizados en el CELEQ, en cualquier parte del país."
+                  },
+                  {
+                    "@type": "StringField",
+                    "name": "Nombre de la normativa o certificaciones de calidad que cubren el servicio",
+                    "type": "java.lang.String",
+                    "value": "Acreditación ante el Ente Costarricense de Acreditación, según las norma INTE-ISO/IEC 17020-2012 e INTE-ISO/IEC 17025-2005"
+                  },
+                  {
+                    "@type": "StringField",
+                    "name": "Nombre del responsable",
+                    "type": "java.lang.String",
+                    "value": "<a href='mailto:carlos.leon@ucr.ac.cr,jbustos@cita.ucr.ac.cr'>Dr. Carlos León Rojas<br>B.Q. Jairol Bustos C.</a>"
+                  }
+                ],
+                "size": 4
+              },
+              {
+                "index": 4,
+                "publicId": null,
+                "fields": [
+                  {
+                    "@type": "StringField",
+                    "name": "Nombre del servicio",
+                    "type": "java.lang.String",
+                    "value": "Análisis de composición de mezclas de gases"
+                  },
+                  {
+                    "@type": "StringField",
+                    "name": "Descripción del servicio",
+                    "type": "java.lang.String",
+                    "value": "Se realizan análisis para determinar la composición de diferentes mezclas de gases, provenientes de procesos biotecnológicos (CO2, NO2, NO, O2, N2, CH4, etc.)"
+                  },
+                  {
+                    "@type": "StringField",
+                    "name": "Nombre de la normativa o certificaciones de calidad que cubren el servicio",
+                    "type": "java.lang.String",
+                    "value": null
+                  },
+                  {
+                    "@type": "StringField",
+                    "name": "Nombre del responsable",
+                    "type": "java.lang.String",
+                    "value": "<a href='mailto:carlos.leon@ucr.ac.cr,paola.fuentes@ucr.ac.cr'>Dr. Carlos León Rojas<br>M.Sc. Paola Fuentes S.</a>"
+                  }
+                ],
+                "size": 4
+              }
+            ],
+            "size": 5
+          }
+        ],
+        "sectionId": "services",
+        "sectionTitle": "Servicios de transferencia tecnológica prestados"
+      },
+      {
+        "fields": [
+          {
+            "@type": "StringField",
+            "name": "Vínculos",
+            "type": "java.lang.String",
+            "value": "<ul><br><li>Autoridad Reguladora de los Servicios Públicos, ARESEP</li><br><li>Embajada de los Estados Unidos de Norteamérica</li><br><li>Asesolar</li><br><li>CoopeTarrazú</li><br><li>CoopeSantos</li><br><li>MINAE</li><br></ul>"
+          },
+          {
+            "@type": "StringField",
+            "name": "Información adicional",
+            "type": "java.lang.String",
+            "value": null
+          }
+        ],
+        "tables": [],
+        "sectionId": "additional_info",
+        "sectionTitle": "Información adicional"
+      }
+    ],
+    "tags": [
+      "Universidad de Costa Rica",
+      "Energías renovables"
+    ],
+    "tags2": [
+      "cumplimiento",
+      "diesel",
+      "no",
+      "analisis",
+      "determinar",
+      "provenientes",
+      "gasolina",
+      "parte",
+      "hidrocarburos",
+      "suelo",
+      "biotecnologicos",
+      "celeq",
+      "etc",
+      "normativa",
+      "mineral",
+      "realiza",
+      "combustibles",
+      "gases",
+      "agua",
+      "hidraulico",
+      "bunker",
+      "cualquier",
+      "ambiental",
+      "ch",
+      "verificar",
+      "glp",
+      "tipos",
+      "btex",
+      "composicion",
+      "co",
+      "kerosene",
+      "comestible",
+      "realizados",
+      "pais",
+      "aceites",
+      "diferentes",
+      "especificaciones",
+      "contaminacion",
+      "realizan",
+      "grasas",
+      "toma",
+      "lubricacion",
+      "muestras",
+      "mezclas",
+      "calidad",
+      "muestra",
+      "procesos"
+    ],
+    "domain": "Oferta Tecnologica Publica",
+    "imageFiles": [],
+    "externalId": "35b419fb-b3c6-48a5-a884-aa0848283c8d",
+    "template": null,
+    "branches": [],
+    "branch": false,
+    "hasUserEmail": false,
+    "deprecated": false
+  },
+  {
+    "publicId": "4ebfe995-def9-483f-9e23-3b6eeda76f79",
+    "creationDate": "2019-11-13T16:53:31.579+0000",
+    "newIndicator": true,
+    "branchTitle": null,
+    "title": "Centro de Investigaciones Apícolas Tropicales (CINAT)",
+    "canEdit": false,
+    "coordinates": {
+      "firstLevel": "Heredia",
+      "secondLevel": "Heredia",
+      "latitude": 9.972771,
+      "longitude": -84.129353
+    },
+    "sections": [
+      {
+        "fields": [
+          {
+            "@type": "StringField",
+            "name": "Contacto",
+            "type": "java.lang.String",
+            "value": "Beatriz Zepeda Ramírez"
+          },
+          {
+            "@type": "StringField",
+            "name": "Correo",
+            "type": "java.lang.String",
+            "value": "beatriz.zepeda.ramirez@una.cr"
+          },
+          {
+            "@type": "StringField",
+            "name": "Unidad académica",
+            "type": "java.lang.String",
+            "value": "Universidad Nacional de Costa Rica"
+          },
+          {
+            "@type": "StringField",
+            "name": "Institución",
+            "type": "java.lang.String",
+            "value": "Universidad Nacional de Costa Rica"
+          },
+          {
+            "@type": "StringField",
+            "name": "Teléfono",
+            "type": "java.lang.String",
+            "value": "2562-6330\n2562-6340"
+          },
+          {
+            "@type": "StringField",
+            "name": "Horario",
+            "type": "java.lang.String",
+            "value": "L-V: 8:00 am - 5:00 pm"
+          },
+          {
+            "@type": "StringField",
+            "name": "Sitio Web",
+            "type": "java.lang.String",
+            "value": "http://www.cinat.una.ac.cr/"
+          },
+          {
+            "@type": "StringField",
+            "name": "Áreas de experiencia en la oferta de servicios",
+            "type": "java.lang.String",
+            "value": "\nExperiencia en el estudio de las abejas, promover la conservación de la diversidad de abejas y fomentar actividad apícola y meliponícola."
+          },
+          {
+            "@type": "StringField",
+            "name": "Sectores de aplicación",
+            "type": "java.lang.String",
+            "value": "Apicultura y meliponicultura"
+          }
+        ],
+        "tables": [],
+        "sectionId": "info",
+        "sectionTitle": "Información general"
+      },
+      {
+        "fields": [
+          {
+            "@type": "StringField",
+            "name": "Dirección",
+            "type": "java.lang.String",
+            "value": "De Jardines del Recuedo 1.5 Kms oeste y 1 Km norte, Campus Pbro. Benjamín Nuñez, Barreal de Heredia."
+          },
+          {
+            "@type": "StringField",
+            "name": "latitud",
+            "type": "java.lang.String",
+            "value": "9.972771"
+          },
+          {
+            "@type": "StringField",
+            "name": "longitud",
+            "type": "java.lang.String",
+            "value": "-84.129353"
+          },
+          {
+            "@type": "StringField",
+            "name": "frameId",
+            "type": "java.lang.String",
+            "value": "0x8fa0fb109bd12a4f%3A0xdde9cccb3a4f7e71"
+          },
+          {
+            "@type": "StringField",
+            "name": "frameName",
+            "type": "java.lang.String",
+            "value": "Centro+de+Investigaciones+Ap%C3%ADcolas+Tropicales"
+          }
+        ],
+        "tables": [],
+        "sectionId": "address",
+        "sectionTitle": "Dirección"
+      },
+      {
+        "fields": [],
+        "tables": [
+          {
+            "index": 0,
+            "publicId": "09879357-4f53-4eec-8aa4-d9e5d4ff47a5",
+            "name": "Servicios de transferencia tecnológica prestados",
+            "rows": [
+              {
+                "index": 0,
+                "publicId": null,
+                "fields": [
+                  {
+                    "@type": "StringField",
+                    "name": "Nombre del servicio",
+                    "type": "java.lang.String",
+                    "value": "Diagnóstico de enfermedades de las abejas"
+                  },
+                  {
+                    "@type": "StringField",
+                    "name": "Descripción del servicio",
+                    "type": "java.lang.String",
+                    "value": "Análisis de abejas para el diagnóstico de las principales enfermedades"
+                  },
+                  {
+                    "@type": "StringField",
+                    "name": "Nombre de la normativa o certificaciones de calidad que cubren el servicio",
+                    "type": "java.lang.String",
+                    "value": null
+                  },
+                  {
+                    "@type": "StringField",
+                    "name": "Nombre del responsable",
+                    "type": "java.lang.String",
+                    "value": "<a href='mailto:rafael.calderon.fallas@una.cr.,marianyela.ramirez.montero@una.cr'>Dr. Rafael Calderón      <br>Ing. Marianyela Ramírez</a>"
+                  }
+                ],
+                "size": 4
+              },
+              {
+                "index": 1,
+                "publicId": null,
+                "fields": [
+                  {
+                    "@type": "StringField",
+                    "name": "Nombre del servicio",
+                    "type": "java.lang.String",
+                    "value": "Análisis químico de la miel de abeja"
+                  },
+                  {
+                    "@type": "StringField",
+                    "name": "Descripción del servicio",
+                    "type": "java.lang.String",
+                    "value": "Análisis químico de la calidad de la miel de abeja"
+                  },
+                  {
+                    "@type": "StringField",
+                    "name": "Nombre de la normativa o certificaciones de calidad que cubren el servicio",
+                    "type": "java.lang.String",
+                    "value": null
+                  },
+                  {
+                    "@type": "StringField",
+                    "name": "Nombre del responsable",
+                    "type": "java.lang.String",
+                    "value": "<a href='mailto:eduardo.umana.rojas@una.cr'>M.Sc. Eduardo Umaña</a>"
+                  }
+                ],
+                "size": 4
+              },
+              {
+                "index": 2,
+                "publicId": null,
+                "fields": [
+                  {
+                    "@type": "StringField",
+                    "name": "Nombre del servicio",
+                    "type": "java.lang.String",
+                    "value": "Análisis microbiológico de la miel de abeja"
+                  },
+                  {
+                    "@type": "StringField",
+                    "name": "Descripción del servicio",
+                    "type": "java.lang.String",
+                    "value": "Análisis de la miel para determinar cargas microbiológicas"
+                  },
+                  {
+                    "@type": "StringField",
+                    "name": "Nombre de la normativa o certificaciones de calidad que cubren el servicio",
+                    "type": "java.lang.String",
+                    "value": null
+                  },
+                  {
+                    "@type": "StringField",
+                    "name": "Nombre del responsable",
+                    "type": "java.lang.String",
+                    "value": "<a href='mailto:luis.zamora.fallas@una.cr'>MQC. Luis Gabriel Zamora</a>"
+                  }
+                ],
+                "size": 4
+              },
+              {
+                "index": 3,
+                "publicId": null,
+                "fields": [
+                  {
+                    "@type": "StringField",
+                    "name": "Nombre del servicio",
+                    "type": "java.lang.String",
+                    "value": "Análisis palinológico"
+                  },
+                  {
+                    "@type": "StringField",
+                    "name": "Descripción del servicio",
+                    "type": "java.lang.String",
+                    "value": "Determinación del origen botánico de las mieles mediante análisis de polen"
+                  },
+                  {
+                    "@type": "StringField",
+                    "name": "Nombre de la normativa o certificaciones de calidad que cubren el servicio",
+                    "type": "java.lang.String",
+                    "value": null
+                  },
+                  {
+                    "@type": "StringField",
+                    "name": "Nombre del responsable",
+                    "type": "java.lang.String",
+                    "value": "<a href='mailto:luis.sanchez.chaves@una.cr'>M.Sc. Luis A. Sánchez Chaves</a>"
+                  }
+                ],
+                "size": 4
+              },
+              {
+                "index": 4,
+                "publicId": null,
+                "fields": [
+                  {
+                    "@type": "StringField",
+                    "name": "Nombre del servicio",
+                    "type": "java.lang.String",
+                    "value": "Capacitación en apicultura y meliponicultura"
+                  },
+                  {
+                    "@type": "StringField",
+                    "name": "Descripción del servicio",
+                    "type": "java.lang.String",
+                    "value": "Formación en las diferentes áreas de la apicultura (manejo de colmenas) y abejas nativas sin aguijón (meliponicultura)"
+                  },
+                  {
+                    "@type": "StringField",
+                    "name": "Nombre de la normativa o certificaciones de calidad que cubren el servicio",
+                    "type": "java.lang.String",
+                    "value": null
+                  },
+                  {
+                    "@type": "StringField",
+                    "name": "Nombre del responsable",
+                    "type": "java.lang.String",
+                    "value": "<a href='mailto:jose.ramirez.arias@una.cr,johan.vanveen.marinissen@una.cr,ingrid.aguilar.monge@una.cr'>M.Sc. Fernando Ramírez Arias      <br>Dr. Johan Van Veen<br>Dra. Ingrid Aguilar Monge</a>"
+                  }
+                ],
+                "size": 4
+              },
+              {
+                "index": 5,
+                "publicId": null,
+                "fields": [
+                  {
+                    "@type": "StringField",
+                    "name": "Nombre del servicio",
+                    "type": "java.lang.String",
+                    "value": "Capacitación en Meliponicultura"
+                  },
+                  {
+                    "@type": "StringField",
+                    "name": "Descripción del servicio",
+                    "type": "java.lang.String",
+                    "value": "Procesamiento y laminado de la cera"
+                  },
+                  {
+                    "@type": "StringField",
+                    "name": "Nombre de la normativa o certificaciones de calidad que cubren el servicio",
+                    "type": "java.lang.String",
+                    "value": null
+                  },
+                  {
+                    "@type": "StringField",
+                    "name": "Nombre del responsable",
+                    "type": "java.lang.String",
+                    "value": "<a href='mailto:johan.vanveen.marinissen@una.cr'>Dr. Johan Van Veen</a>"
+                  }
+                ],
+                "size": 4
+              },
+              {
+                "index": 6,
+                "publicId": null,
+                "fields": [
+                  {
+                    "@type": "StringField",
+                    "name": "Nombre del servicio",
+                    "type": "java.lang.String",
+                    "value": "Laminado de cera de abeja"
+                  },
+                  {
+                    "@type": "StringField",
+                    "name": "Descripción del servicio",
+                    "type": "java.lang.String",
+                    "value": "Elaboración de productos apícolas"
+                  },
+                  {
+                    "@type": "StringField",
+                    "name": "Nombre de la normativa o certificaciones de calidad que cubren el servicio",
+                    "type": "java.lang.String",
+                    "value": null
+                  },
+                  {
+                    "@type": "StringField",
+                    "name": "Nombre del responsable",
+                    "type": "java.lang.String",
+                    "value": "<a href='mailto:eduardo.umana.rojas@una.cr,natalia.fallas.matamoros@una.cr'>M.Sc. Eduardo Umaña   <br>M.Sc. Natalia Fallas</a>"
+                  }
+                ],
+                "size": 4
+              },
+              {
+                "index": 7,
+                "publicId": null,
+                "fields": [
+                  {
+                    "@type": "StringField",
+                    "name": "Nombre del servicio",
+                    "type": "java.lang.String",
+                    "value": "Capacitación en diversificación de productos apícolas"
+                  },
+                  {
+                    "@type": "StringField",
+                    "name": "Descripción del servicio",
+                    "type": "java.lang.String",
+                    "value": "Capacitación en diversificación de productos apícolas"
+                  },
+                  {
+                    "@type": "StringField",
+                    "name": "Nombre de la normativa o certificaciones de calidad que cubren el servicio",
+                    "type": "java.lang.String",
+                    "value": null
+                  },
+                  {
+                    "@type": "StringField",
+                    "name": "Nombre del responsable",
+                    "type": "java.lang.String",
+                    "value": "<a href='mailto:jose.ramirez.arias@una.cr,johan.vanveen.marinissen@una.cr,ingrid.aguilar.monge@una.cr'>M.Sc. Fernando Ramírez Arias      <br>Dr. Johan Van Veen<br>Dra. Ingrid Aguilar Monge</a>"
+                  }
+                ],
+                "size": 4
+              }
+            ],
+            "size": 8
+          }
+        ],
+        "sectionId": "services",
+        "sectionTitle": "Servicios de transferencia tecnológica prestados"
+      },
+      {
+        "fields": [
+          {
+            "@type": "StringField",
+            "name": "Vínculos",
+            "type": "java.lang.String",
+            "value": "<ul><br><li>Ministerio de Agricultura y Ganadería (MAG-SENASA)</li><br><li>Universidad de Costa Rica (UCR)</li><br><li>Instituto Tecnológico de Costa Rica (ITCR)</li><br><li>Universidad Estatal a Distancia (UNED)</li><br><li>Instituto Nacional de Aprendizaje (INA)</li><br><li>Cámara Nacional de Fomento de la Apicultura</li><br></ul>"
+          },
+          {
+            "@type": "StringField",
+            "name": "Información adicional",
+            "type": "java.lang.String",
+            "value": null
+          }
+        ],
+        "tables": [],
+        "sectionId": "additional_info",
+        "sectionTitle": "Información adicional"
+      }
+    ],
+    "tags": [
+      "Universidad Nacional de Costa Rica",
+      "Apicultura y meliponicultura"
+    ],
+    "tags2": [
+      "microbiologicas",
+      "capacitacion",
+      "analisis",
+      "determinar",
+      "procesamiento",
+      "mieles",
+      "nativas",
+      "apicolas",
+      "areas",
+      "origen",
+      "quimico",
+      "formacion",
+      "diversificacion",
+      "palinologico",
+      "manejo",
+      "microbiologico",
+      "productos",
+      "abeja",
+      "enfermedades",
+      "abejas",
+      "botanico",
+      "elaboracion",
+      "polen",
+      "apicultura",
+      "meliponicultura",
+      "colmenas",
+      "aguijon",
+      "miel",
+      "diferentes",
+      "determinacion",
+      "diagnostico",
+      "cargas",
+      "laminado",
+      "calidad",
+      "principales",
+      "cera"
+    ],
+    "domain": "Oferta Tecnologica Publica",
+    "imageFiles": [],
+    "externalId": "db94549c-b6ea-444f-b4c4-922bc1c279ec",
+    "template": null,
+    "branches": [],
+    "branch": false,
+    "hasUserEmail": false,
+    "deprecated": false
+  },
+  {
+    "publicId": "1659623f-026e-42b1-81c3-21ca72d76a33",
+    "creationDate": "2019-11-13T16:53:32.302+0000",
+    "newIndicator": true,
+    "branchTitle": null,
+    "title": "Centro de Investigaciones Geofísicas (CIGEFI)",
+    "canEdit": false,
+    "coordinates": {
+      "firstLevel": "San José",
+      "secondLevel": "Montes de Oca",
+      "latitude": 9.93647,
+      "longitude": -84.044855
+    },
+    "sections": [
+      {
+        "fields": [
+          {
+            "@type": "StringField",
+            "name": "Contacto",
+            "type": "java.lang.String",
+            "value": "Alejandra Montero"
+          },
+          {
+            "@type": "StringField",
+            "name": "Correo",
+            "type": "java.lang.String",
+            "value": "cigefi@ucr.ac.cr"
+          },
+          {
+            "@type": "StringField",
+            "name": "Unidad académica",
+            "type": "java.lang.String",
+            "value": "Universidad de Costa Rica"
+          },
+          {
+            "@type": "StringField",
+            "name": "Institución",
+            "type": "java.lang.String",
+            "value": "Universidad de Costa Rica"
+          },
+          {
+            "@type": "StringField",
+            "name": "Teléfono",
+            "type": "java.lang.String",
+            "value": "2511-5096"
+          },
+          {
+            "@type": "StringField",
+            "name": "Horario",
+            "type": "java.lang.String",
+            "value": "L-V: 8:00 am - 4:45 pm"
+          },
+          {
+            "@type": "StringField",
+            "name": "Sitio Web",
+            "type": "java.lang.String",
+            "value": "http://www.cigefi.ucr.ac.cr/"
+          },
+          {
+            "@type": "StringField",
+            "name": "Áreas de experiencia en la oferta de servicios",
+            "type": "java.lang.String",
+            "value": "Experiencia en variabilidad y cambio climático, análisis de datos y modelado climático e hidrológico."
+          },
+          {
+            "@type": "StringField",
+            "name": "Sectores de aplicación",
+            "type": "java.lang.String",
+            "value": "Análisis climático"
+          }
+        ],
+        "tables": [],
+        "sectionId": "info",
+        "sectionTitle": "Información general"
+      },
+      {
+        "fields": [
+          {
+            "@type": "StringField",
+            "name": "Dirección",
+            "type": "java.lang.String",
+            "value": "Ciudad de la Investigación UCR, San Pedro de Montes de Oca, San José"
+          },
+          {
+            "@type": "StringField",
+            "name": "latitud",
+            "type": "java.lang.String",
+            "value": "9.93647"
+          },
+          {
+            "@type": "StringField",
+            "name": "longitud",
+            "type": "java.lang.String",
+            "value": "-84.044855"
+          },
+          {
+            "@type": "StringField",
+            "name": "frameId",
+            "type": "java.lang.String",
+            "value": "0x8fa0e389bb789023%3A0xd33f9150cebcbf92"
+          },
+          {
+            "@type": "StringField",
+            "name": "frameName",
+            "type": "java.lang.String",
+            "value": "Centro+de+Investigaciones+Geof%C3%ADsicas"
+          }
+        ],
+        "tables": [],
+        "sectionId": "address",
+        "sectionTitle": "Dirección"
+      },
+      {
+        "fields": [],
+        "tables": [
+          {
+            "index": 0,
+            "publicId": "1dd1886b-dc91-4d51-8078-f15e4cf7319d",
+            "name": "Servicios de transferencia tecnológica prestados",
+            "rows": [
+              {
+                "index": 0,
+                "publicId": null,
+                "fields": [
+                  {
+                    "@type": "StringField",
+                    "name": "Nombre del servicio",
+                    "type": "java.lang.String",
+                    "value": "Análisis climático"
+                  },
+                  {
+                    "@type": "StringField",
+                    "name": "Descripción del servicio",
+                    "type": "java.lang.String",
+                    "value": "Se realiza el análisis climático en apoyo a diferentes actividades climáticas; se cuenta con bases de datos climáticos y modelos estadísticos, así como modelos dinámicos regionales, los cuales hacen uso de dos conglomerados de computadoras, el más reciente llamado Tsaheva de alto rendimiento cuyas principales características son que contiene 480 núcleos distribuidos en 10 twin blades, cada uno con 4 procesadores AMD de 12 núcleos por procesador, 64 TB de almacenamiento, mensajería a 40Gb/s (Single 40Gb/s Infinibad switch), 640 GB memoria RAM, Tripp UPS."
+                  },
+                  {
+                    "@type": "StringField",
+                    "name": "Nombre de la normativa o certificaciones de calidad que cubren el servicio",
+                    "type": "java.lang.String",
+                    "value": "El Centro de Investigaciones Geofísicas es parte del Centro de Formación Profesional de la Organización Meteorológica Mundial desde la década de los 1960 (ver: http://www.wmo.int/pages/prog/dra/etrp/rtcs.php y http://www.ucr.ac.cr/noticias/2015/03/25/ucr-destaca-como-centro-de-formacion-meteorologica-en-latinoamerica.html"
+                  },
+                  {
+                    "@type": "StringField",
+                    "name": "Nombre del responsable",
+                    "type": "java.lang.String",
+                    "value": "<a href='mailto:erick.alfaro@ucr.ac.cr'>Dr. Eric Alfaro Martínez</a>"
+                  }
+                ],
+                "size": 4
+              }
+            ],
+            "size": 1
+          }
+        ],
+        "sectionId": "services",
+        "sectionTitle": "Servicios de transferencia tecnológica prestados"
+      },
+      {
+        "fields": [
+          {
+            "@type": "StringField",
+            "name": "Vínculos",
+            "type": "java.lang.String",
+            "value": "<ul><br><li>Organización Meteorológica Mundial</li><br><li>Comité regional de Recursos Hidraulicos, CRRH, Sistema de Integración Centroamericano, SICA</li><br><li>Consejo Superior Universitario Centroamericano, CSUCA, Sistema de Integración Centroamericano, SICA</li><br><li>Instituto Meteorológico Nacional, IMN</li><br></ul>"
+          },
+          {
+            "@type": "StringField",
+            "name": "Información adicional",
+            "type": "java.lang.String",
+            "value": null
+          }
+        ],
+        "tables": [],
+        "sectionId": "additional_info",
+        "sectionTitle": "Información adicional"
+      }
+    ],
+    "tags": [
+      "Universidad de Costa Rica",
+      "Análisis climático"
+    ],
+    "tags2": [
+      "blades",
+      "caracteristicas",
+      "estadisticos",
+      "analisis",
+      "memoria",
+      "dinamicos",
+      "alto",
+      "actividades",
+      "climaticas",
+      "switch",
+      "bases",
+      "uso",
+      "cuyas",
+      "son",
+      "datos",
+      "hacen",
+      "cuenta",
+      "realiza",
+      "gb",
+      "twin",
+      "ram",
+      "conglomerados",
+      "nucleos",
+      "almacenamiento",
+      "climatico",
+      "procesadores",
+      "procesador",
+      "modelos",
+      "regionales",
+      "distribuidos",
+      "computadoras",
+      "single",
+      "diferentes",
+      "reciente",
+      "tripp",
+      "rendimiento",
+      "contiene",
+      "cada",
+      "mensajeria",
+      "llamado",
+      "infinibad",
+      "amd",
+      "ups",
+      "climaticos",
+      "apoyo",
+      "tsaheva",
+      "principales"
+    ],
+    "domain": "Oferta Tecnologica Publica",
+    "imageFiles": [],
+    "externalId": "f42e3eb3-8c76-453c-8c8d-ae9c31f264c5",
+    "template": null,
+    "branches": [],
+    "branch": false,
+    "hasUserEmail": false,
+    "deprecated": false
+  },
+  {
+    "publicId": "f9512493-c1a9-4082-be8b-877902a41f0c",
+    "creationDate": "2019-11-13T16:53:33.632+0000",
+    "newIndicator": true,
+    "branchTitle": null,
+    "title": "Centro de Investigaciones en Computación (CIC)",
+    "canEdit": false,
+    "coordinates": {
+      "firstLevel": "Cartago",
+      "secondLevel": "Cartago",
+      "latitude": 9.856492,
+      "longitude": -83.910941
+    },
+    "sections": [
+      {
+        "fields": [
+          {
+            "@type": "StringField",
+            "name": "Contacto",
+            "type": "java.lang.String",
+            "value": "Jeff Schmidt Peralta"
+          },
+          {
+            "@type": "StringField",
+            "name": "Correo",
+            "type": "java.lang.String",
+            "value": "jschmidtcr@gmail.com"
+          },
+          {
+            "@type": "StringField",
+            "name": "Unidad académica",
+            "type": "java.lang.String",
+            "value": "Tecnológico de Costa Rica"
+          },
+          {
+            "@type": "StringField",
+            "name": "Institución",
+            "type": "java.lang.String",
+            "value": "Tecnológico de Costa Rica"
+          },
+          {
+            "@type": "StringField",
+            "name": "Teléfono",
+            "type": "java.lang.String",
+            "value": "2550-9160"
+          },
+          {
+            "@type": "StringField",
+            "name": "Horario",
+            "type": "java.lang.String",
+            "value": "L-V: 7:30 am - 4:30 pm"
+          },
+          {
+            "@type": "StringField",
+            "name": "Sitio Web",
+            "type": "java.lang.String",
+            "value": "https://www.tec.ac.cr/centros-investigacion/centro-investigacion-computacion-cic"
+          },
+          {
+            "@type": "StringField",
+            "name": "Áreas de experiencia en la oferta de servicios",
+            "type": "java.lang.String",
+            "value": "Experiencia en la generación, adaptación, incorporación y difusión de conocimientos informáticos."
+          },
+          {
+            "@type": "StringField",
+            "name": "Sectores de aplicación",
+            "type": "java.lang.String",
+            "value": "Educación, Servicios profesionales y técnicos (incluye servicios legales, arquitectura e ingeniería), Tecnologías de la información y la comunicación"
+          }
+        ],
+        "tables": [],
+        "sectionId": "info",
+        "sectionTitle": "Información general"
+      },
+      {
+        "fields": [
+          {
+            "@type": "StringField",
+            "name": "Dirección",
+            "type": "java.lang.String",
+            "value": "Tecnológico de Costa Rica, Sede Central Cartago."
+          },
+          {
+            "@type": "StringField",
+            "name": "latitud",
+            "type": "java.lang.String",
+            "value": "9.856492"
+          },
+          {
+            "@type": "StringField",
+            "name": "longitud",
+            "type": "java.lang.String",
+            "value": "-83.910941"
+          },
+          {
+            "@type": "StringField",
+            "name": "frameId",
+            "type": "java.lang.String",
+            "value": "0x8fa0dff2d0881a61%3A0xfe4de00f1ba23f45"
+          },
+          {
+            "@type": "StringField",
+            "name": "frameName",
+            "type": "java.lang.String",
+            "value": "Fundaci%C3%B3n+Tecnol%C3%B3gica+de+Costa+Rica"
+          }
+        ],
+        "tables": [],
+        "sectionId": "address",
+        "sectionTitle": "Dirección"
+      },
+      {
+        "fields": [],
+        "tables": [
+          {
+            "index": 0,
+            "publicId": "c195e0d9-25af-44f8-8d60-5814e37c78da",
+            "name": "Servicios de transferencia tecnológica prestados",
+            "rows": [
+              {
+                "index": 0,
+                "publicId": null,
+                "fields": [
+                  {
+                    "@type": "StringField",
+                    "name": "Nombre del servicio",
+                    "type": "java.lang.String",
+                    "value": "Desarrollo de aplicaciones móviles"
+                  },
+                  {
+                    "@type": "StringField",
+                    "name": "Descripción del servicio",
+                    "type": "java.lang.String",
+                    "value": "Proceso de generar aplicaciones para dispositivos móviles"
+                  },
+                  {
+                    "@type": "StringField",
+                    "name": "Nombre de la normativa o certificaciones de calidad que cubren el servicio",
+                    "type": "java.lang.String",
+                    "value": null
+                  },
+                  {
+                    "@type": "StringField",
+                    "name": "Nombre del responsable",
+                    "type": "java.lang.String",
+                    "value": "<a href='mailto:jschmidt@itcr.ac.cr'>Jeff Schmidt Peralta</a>"
+                  }
+                ],
+                "size": 4
+              },
+              {
+                "index": 1,
+                "publicId": null,
+                "fields": [
+                  {
+                    "@type": "StringField",
+                    "name": "Nombre del servicio",
+                    "type": "java.lang.String",
+                    "value": "Consultoría en gobernabilidad de tecnologías de información"
+                  },
+                  {
+                    "@type": "StringField",
+                    "name": "Descripción del servicio",
+                    "type": "java.lang.String",
+                    "value": "Diagnóstico de Normas Técnicas de la CGR y elaboración"
+                  },
+                  {
+                    "@type": "StringField",
+                    "name": "Nombre de la normativa o certificaciones de calidad que cubren el servicio",
+                    "type": "java.lang.String",
+                    "value": null
+                  },
+                  {
+                    "@type": "StringField",
+                    "name": "Nombre del responsable",
+                    "type": "java.lang.String",
+                    "value": "<a href='mailto:jschmidt@itcr.ac.cr'>Jeff Schmidt Peralta</a>"
+                  }
+                ],
+                "size": 4
+              },
+              {
+                "index": 2,
+                "publicId": null,
+                "fields": [
+                  {
+                    "@type": "StringField",
+                    "name": "Nombre del servicio",
+                    "type": "java.lang.String",
+                    "value": "Evaluación de sistemas de información"
+                  },
+                  {
+                    "@type": "StringField",
+                    "name": "Descripción del servicio",
+                    "type": "java.lang.String",
+                    "value": "Evaluación de sistemas existentes"
+                  },
+                  {
+                    "@type": "StringField",
+                    "name": "Nombre de la normativa o certificaciones de calidad que cubren el servicio",
+                    "type": "java.lang.String",
+                    "value": null
+                  },
+                  {
+                    "@type": "StringField",
+                    "name": "Nombre del responsable",
+                    "type": "java.lang.String",
+                    "value": "<a href='mailto:jschmidt@itcr.ac.cr'>Jeff Schmidt Peralta</a>"
+                  }
+                ],
+                "size": 4
+              },
+              {
+                "index": 3,
+                "publicId": null,
+                "fields": [
+                  {
+                    "@type": "StringField",
+                    "name": "Nombre del servicio",
+                    "type": "java.lang.String",
+                    "value": "Auditoría sobre sistemas y gestión de tecnologías de información"
+                  },
+                  {
+                    "@type": "StringField",
+                    "name": "Descripción del servicio",
+                    "type": "java.lang.String",
+                    "value": "Auditoría sobre procesos de tecnologías de información o sistemas de información"
+                  },
+                  {
+                    "@type": "StringField",
+                    "name": "Nombre de la normativa o certificaciones de calidad que cubren el servicio",
+                    "type": "java.lang.String",
+                    "value": null
+                  },
+                  {
+                    "@type": "StringField",
+                    "name": "Nombre del responsable",
+                    "type": "java.lang.String",
+                    "value": "<a href='mailto:jschmidt@itcr.ac.cr'>Jeff Schmidt Peralta</a>"
+                  }
+                ],
+                "size": 4
+              },
+              {
+                "index": 4,
+                "publicId": null,
+                "fields": [
+                  {
+                    "@type": "StringField",
+                    "name": "Nombre del servicio",
+                    "type": "java.lang.String",
+                    "value": "Análisis de requerimientos"
+                  },
+                  {
+                    "@type": "StringField",
+                    "name": "Descripción del servicio",
+                    "type": "java.lang.String",
+                    "value": "Definición de requerimientos de información para sistemas"
+                  },
+                  {
+                    "@type": "StringField",
+                    "name": "Nombre de la normativa o certificaciones de calidad que cubren el servicio",
+                    "type": "java.lang.String",
+                    "value": null
+                  },
+                  {
+                    "@type": "StringField",
+                    "name": "Nombre del responsable",
+                    "type": "java.lang.String",
+                    "value": "<a href='mailto:jschmidt@itcr.ac.cr'>Jeff Schmidt Peralta</a>"
+                  }
+                ],
+                "size": 4
+              },
+              {
+                "index": 5,
+                "publicId": null,
+                "fields": [
+                  {
+                    "@type": "StringField",
+                    "name": "Nombre del servicio",
+                    "type": "java.lang.String",
+                    "value": "Capacitación en tecnologías de información"
+                  },
+                  {
+                    "@type": "StringField",
+                    "name": "Descripción del servicio",
+                    "type": "java.lang.String",
+                    "value": "Capacitaciones generales y específicas sobre tecnologías de información"
+                  },
+                  {
+                    "@type": "StringField",
+                    "name": "Nombre de la normativa o certificaciones de calidad que cubren el servicio",
+                    "type": "java.lang.String",
+                    "value": null
+                  },
+                  {
+                    "@type": "StringField",
+                    "name": "Nombre del responsable",
+                    "type": "java.lang.String",
+                    "value": "<a href='mailto:jschmidt@itcr.ac.cr'>Jeff Schmidt Peralta</a>"
+                  }
+                ],
+                "size": 4
+              }
+            ],
+            "size": 6
+          }
+        ],
+        "sectionId": "services",
+        "sectionTitle": "Servicios de transferencia tecnológica prestados"
+      },
+      {
+        "fields": [
+          {
+            "@type": "StringField",
+            "name": "Vínculos",
+            "type": "java.lang.String",
+            "value": null
+          },
+          {
+            "@type": "StringField",
+            "name": "Información adicional",
+            "type": "java.lang.String",
+            "value": null
+          }
+        ],
+        "tables": [],
+        "sectionId": "additional_info",
+        "sectionTitle": "Información adicional"
+      }
+    ],
+    "tags": [
+      "Tecnológico de Costa Rica",
+      "Educación",
+      " Servicios profesionales y técnicos (incluye servicios legales",
+      " arquitectura e ingeniería)",
+      " Tecnologías de la información y la comunicación"
+    ],
+    "tags2": [
+      "gobernabilidad",
+      "capacitacion",
+      "moviles",
+      "analisis",
+      "requerimientos",
+      "definicion",
+      "existentes",
+      "evaluacion",
+      "especificas",
+      "generales",
+      "cgr",
+      "informacion",
+      "consultoria",
+      "tecnologias",
+      "generar",
+      "aplicaciones",
+      "auditoria",
+      "elaboracion",
+      "tecnicas",
+      "proceso",
+      "capacitaciones",
+      "normas",
+      "gestion",
+      "dispositivos",
+      "sistemas",
+      "diagnostico",
+      "desarrollo",
+      "procesos"
+    ],
+    "domain": "Oferta Tecnologica Publica",
+    "imageFiles": [],
+    "externalId": "3b8f131c-21a3-4338-91f6-dd5b3cd5a539",
+    "template": null,
+    "branches": [],
+    "branch": false,
+    "hasUserEmail": false,
+    "deprecated": false
+  }
+]
