@@ -21,4 +21,28 @@
     "branch": false,
     "hasUserEmail": false,
     "deprecated": false
+  },
+  {
+    "publicId": "32541045-c72a-4ee4-8c79-ef64852ec5fa",
+    "creationDate": "2019-11-13T16:53:28.755+0000",
+    "newIndicator": true,
+    "branchTitle": null,
+    "title": "Centro Nacional de Innovaciones Biotecnológicas (CENIBiot)",
+    "canEdit": false,
+    "coordinates": {
+      "firstLevel": "San José",
+      "secondLevel": "San José",
+      "latitude": 9.950717,
+      "longitude": -84.124479
+    },
+    "tags": [],
+    "tags2": [],
+    "domain": "Oferta Tecnologica Publica",
+    "imageFiles": [],
+    "externalId": "6ecd995c-4abb-44ef-8331-fc0229807e2a",
+    "template": null,
+    "branches": [],
+    "branch": false,
+    "hasUserEmail": false,
+    "deprecated": false
   }
